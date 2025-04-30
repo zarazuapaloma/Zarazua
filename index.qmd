@@ -2,23 +2,10 @@
 # Zarazua Research Website
 ---
 
-## Quarto
+# Welcome to the Zarazua Research Website
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+This site shares updates and information in my research career. Stay tuned for project pages, data visualizations, and resources coming soon.
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+<p align="center">
+  <img src="images/palomaphoto.jpg" width="200" alt="Paloma Zarazua" />
+</p>
