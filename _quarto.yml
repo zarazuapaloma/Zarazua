@@ -11,5 +11,6 @@ website:
 format:
   html:
     theme: cosmo
+    css: www/custom.css
 
 output-dir: docs
