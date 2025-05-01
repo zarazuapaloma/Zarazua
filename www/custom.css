@@ -1,4 +1,7 @@
 body {
   background-color: #de378d !important;
-  color: #ffffff;
+}
+
+.content {
+  color: #ffffff !important;
 }
