@@ -1,0 +1,29 @@
+---
+#Research 
+
+##Masters Thesis Research 
+
+###Neutrophil- Like Cells Response to Experimental Metal Alloys
+
+Department of Biological Sciences \ California State Polytechnic University, Pomona
+
+#Abstract
+The demand for prosthetics has gradually increased with the advancements in technology,
+making them more accessible to the growing population in the United States. Prosthetic
+recipients have become increasingly younger over time, resulting in a longer duration of implant
+use among this demographic. The extended implant duration can result in corrosion of the
+metal alloy, creating an inflammatory response which can lead to loosening of the implant due
+to bone resorption. Bone resorption is the process of bone tissue dissolving through the action
+of specialized cells called osteoclasts. Monocytes and macrophages are precursors for osteoclast
+cells. One of the key signals in osteoclast formation is the Receptor Activator of Nuclear factor
+Kappa beta (NFkB ligand), also known as RANKL. This ligand plays a crucial role by binding to the RANK receptors found on the surface of monocytes/macrophages promoting differentiation of osteoclasts. Mature osteoclasts will attach to the bone surface and secrete hydrochloric acid
+that degrades the bone, causing osteolytic loosening. Different cell types are involved in the
+activation of bone resorption including osteoclasts, macrophages and fibroblasts, but it is not
+entirely known how neutrophils play a role in this process. Neutrophils are one of the first
+responders of the immune system in the presence of an antigen. They secrete many of the same
+cytokines as macrophages and fibroblasts that aid in osteoclast activation. It is unknown how
+neutrophils respond to the metals directly or if they induce an inflammatory response. This
+study seeks to provide more knowledge on neutrophil function in the presence of new metal
+alloys that could potentially be used for prosthetic implants. HL-60 cells differentiated into
+neutrophil-like cells (NLCs) will be exposed to titanium, titanium-aluminum-vanadium alloys (Ti-6Al-4V), and novel boron-titanium alloys. Upon exposure, phagocytosis activity will be analyzed
+---
