@@ -31,7 +31,6 @@ study seeks to provide more knowledge on neutrophil function in the presence of 
 alloys that could potentially be used for prosthetic implants. HL-60 cells differentiated into
 neutrophil-like cells (NLCs) will be exposed to titanium, titanium-aluminum-vanadium alloys (Ti-6Al-4V), and novel boron-titanium alloys. Upon exposure, phagocytosis activity will be analyzed
 
-## Background
 
 ## Results 
 ---
