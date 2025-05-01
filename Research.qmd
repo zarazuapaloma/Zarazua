@@ -8,9 +8,10 @@ format: html
 
 ### Neutrophil-like Cells Response to Experimental Metal Alloys
 
-Department of Biological Sciences \ California State Polytechnic University, Pomona
+**Department of Biological Sciences**  
+**California State Polytechnic University, Pomona**
 
-####Abstract
+##Abstract
 The demand for prosthetics has gradually increased with the advancements in technology,
 making them more accessible to the growing population in the United States. Prosthetic
 recipients have become increasingly younger over time, resulting in a longer duration of implant
