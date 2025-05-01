@@ -33,4 +33,8 @@ neutrophil-like cells (NLCs) will be exposed to titanium, titanium-aluminum-vana
 
 
 ## Results 
+<p align="center">
+  <img src="images/flowbeads.jpg" width="600" alt="Flow Cytometry Results">
+</p>
 
+*Figure 1. Flow cytometry results from neutrophil exposure to test alloys.*
