@@ -14,8 +14,16 @@ My career goal is to become a professor and run my own research lab focused on m
 
 On this site, you’ll find updates on my research and my journey. I’ll be sharing more about my background, lab experiences, and the scientific questions that drive me.
 
-![Paloma Zarazua](images/palomaphoto.jpeg)
+<p align="center">
+  <img src="images/palomaphoto.jpeg" width="300" alt="Paloma Zarazua" />
+</p>
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/paloma-zarazua-93a850213/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/paloma-zarazua-93a850213/" target="_blank"
+     style="display: inline-block; margin-top: 10px; background-color:#fff; color:#de378d;
+            padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Connect with me on LinkedIn
+  </a>
+</p>
 
 
