@@ -5,3 +5,9 @@ body {
 .content {
   color: #ffffff !important;
 }
+
+main.content {
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+}
