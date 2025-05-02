@@ -17,3 +17,9 @@ On this site, you’ll find updates on my research and my journey. I’ll be sha
 <p align="center">
   <img src="images/palomaphoto.jpeg" width="500" alt="Paloma Zarazua" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paloma-zarazua-93a850213/" target="_blank" style="background-color:#ffffff; color:#de378d; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:16px;">
+    Connect with me on LinkedIn
+  </a>
+</p>
