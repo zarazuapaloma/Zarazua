@@ -6,10 +6,11 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; max-width: 1000px; margin: auto; padding: 20px;">
 
   <div style="flex: 1; min-width: 300px;">
-    <h1>Welcome to my website!</h1>
-    <p>My name is <strong>Paloma Zarazua</strong>, a Master’s degree candidate at Cal Poly Pomona.</p>
+    Welcome to my website!
+    
+  My name is **Paloma Zarazua**, a Master’s degree candidate at Cal Poly Pomona.
 
-    <p>My research interests lie in immunology, hematopoietic cells, and solving biomedical problems. I’m especially curious about the organ shortage crisis and how it might be resolved through organogenesis—the process of forming organs. This topic fascinates me because researchers have discovered ways to use various plant tissues, like spinach leaves and bamboo, to create frameworks for cardiovascular tissue. I hope to one day contribute to this area of research and help address the organ shortage. While we may never completely solve the problem, I believe that helping even a few patients receive an organ or shorten their wait time can make a lasting impact.
+  My research interests lie in immunology, hematopoietic cells, and solving biomedical problems. I’m especially curious about the organ shortage crisis and how it might be resolved through organogenesis—the process of forming organs. This topic fascinates me because researchers have discovered ways to use various plant tissues, like spinach leaves and bamboo, to create frameworks for cardiovascular tissue. I hope to one day contribute to this area of research and help address the organ shortage. While we may never completely solve the problem, I believe that helping even a few patients receive an organ or shorten their wait time can make a lasting impact.
 
 Beyond research, I enjoy baking and creating new recipes. Before entering the lab, I never realized that baking was a science. When experiments in the lab failed, I found satisfaction in baking—where results were often more predictable and rewarding. I’ve come to love it. I also enjoy tutoring and teaching. As a graduate student at Cal Poly Pomona, I’ve had the opportunity to teach students from diverse backgrounds in courses like Human Physiology, Life Science, and Foundations of Biology: Evolution, Ecology, and Biodiversity. I’ve also taught fellow lab members molecular techniques and tissue culture. As a future professor, I hope to continue supporting students and colleagues by fostering a strong, inclusive scientific community.
 
@@ -18,13 +19,13 @@ My career goal is to become a professor and run my own research lab focused on m
 On this site, you’ll find updates on my research and my journey. I’ll be sharing more about my background, lab experiences, and the scientific questions that drive me.
 </p>
 
-    <a href="https://www.linkedin.com/in/paloma-zarazua-93a850213/" target="_blank" style="display: inline-block; margin-top: 10px; background-color:#fff; color:#de378d; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">
+   href="https://www.linkedin.com/in/paloma-zarazua-93a850213/" target="_blank" style="display: inline-block; margin-top: 10px; background-color:#fff; color:#de378d; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">
       Connect with me on LinkedIn
     </a>
-    </div> <!-- Closes the left column -->
+    </div>
 
   <div style="flex: 1; text-align: center; min-width: 250px;">
     <img src="images/palomaphoto.jpeg" width="300" alt="Paloma Zarazua" />
   </div>
 
-</div> <!-- Closes the full layout -->
+</div> 
