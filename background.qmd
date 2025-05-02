@@ -1,6 +1,6 @@
 ---
 title: "My Background"
-editor: html
+
 ---
 ##Teaching, Mentoring, and Training Experience
 **Teaching Associate**
