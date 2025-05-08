@@ -4,6 +4,7 @@ project:
 website:
   title: "Paloma Zarazua"
   navbar:
+    logo: images/neutrophil.PNG   # 👈 move it here
     left:
       - href: index.qmd
         text: Home
