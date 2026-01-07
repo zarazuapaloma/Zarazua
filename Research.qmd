@@ -6,7 +6,7 @@ format: html
 
 ## Masters Thesis Research
 
-### Neutrophil-like Cells Response to Experimental Metal Alloys
+### INVESTIGATING EFFECTS OF NEUTROPHIL-LIKE CELLS (NLCs) BY NEW DEVELOPING METALS
 
 **Department of Biological Sciences|California State Polytechnic University, Pomona**
 
