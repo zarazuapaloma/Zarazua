@@ -1,3 +1,13 @@
 body {
-  background-color: #de378d;
+  background-color: #de378d !important;
+}
+
+.content {
+  color: #ffffff !important;
+}
+
+main.content {
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
 }
