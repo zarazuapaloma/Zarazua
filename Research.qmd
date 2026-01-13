@@ -1,5 +1,9 @@
 ---
 title: "Research"
+toc: true #enable table of contents 
+toc-depth: 3 #include headings u to H3
+toc-location: right #sidebar on right 
+
 format: html
 ---
 
