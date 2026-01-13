@@ -17,25 +17,36 @@ main.content {
 /* Right sidebar TOC */
 #toc {
   position: fixed;
-  top: 80px;           /* adjust if your navbar is taller */
-  right: 0;            /* right side of page */
+  top: 80px;
+  right: 0;
   width: 250px;
   max-height: 90vh;
   overflow-y: auto;
-  background-color: #de378d !important;
-  color: #ffffff !important;
+  background-color: #de378d !important;  /* matches page */
+  color: #ffffff !important;             /* text color */
   padding: 20px;
   z-index: 999;
+  font-size: 14px;
 }
 
-#toc a {
+/* Make all TOC text white */
+#toc, 
+#toc li, 
+#toc a, 
+#toc span {
   color: #ffffff !important;
-  text-decoration: none;
 }
 
+/* Remove underline from links */
+#toc a {
+  text-decoration: none !important;
+}
+
+/* Hover color */
 #toc a:hover {
   color: #ffe066 !important;
 }
+
 
 /* Shift main content left to avoid overlapping TOC */
 main.content {
