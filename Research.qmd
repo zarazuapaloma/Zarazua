@@ -166,7 +166,7 @@ Following sterilization, in each microcentrifuge tube, 1mL of complete IMDM medi
 
 Succeeding neutrophil-like cell differentiation, NLCs were counted and seeded in a 24 well plate with each well containing 1x106 NLCs and the 1mg of the metal particle solution. For a positive control, 1x106 cells were seeded in a well along with 500ng of Lipopolysaccharide (LPS) (Invitrogen, catalog number:00-4976) and 5mM of ATP with a final volume of 1ml of complete IMDM media. Another well contained the 1x106 NLCs with only 500ng of LPS per 1ml of complete media and an additional well containing only 5mM of ATP with 1x106 NLCs in 1mL of complete IMDM media.  Each condition was tested in duplicates; NLCs were incubated with their respective conditions for 12 and 48 hours at 37°C with 5% CO2. Following incubations, the contents of each well were transferred into a microcentrifuge tube and centrifuged at 1000RPM for 5 minutes. Following centrifugation, the supernatant of each condition was collected and transferred into a cryogenic vial and placed in a -80 °C freezer for later use. The cell pellet is conserved and placed on ice for same day analysis of cell surface staining of RANKL.
 
-
+### G.	Solid Metal Samples for cytokine secretion assay
 
 <p align="center">
   <img src="images/flowbeads.jpg" width="600" alt="Flow Cytometry Results">
