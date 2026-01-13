@@ -194,6 +194,13 @@ Flow cytometry data were analyzed using FlowJo Software (v10, BD Biosciences). T
 
 Flow cytometry data obtained from the cytokine secretion assay were analyzed using the LEGENDplex  Data Analysis Software Suite (BioLegend). Standard samples were first analyzed to generate a standard curve for each cytokine. Experimental sample data files were then uploaded, and cytokine concentrations were automatically calculated by the software based on the corresponding standard curves. 
 
+## Chapter 4: Results 
+### A.	Establishment of Activated Neutrophil-like cells (NLCs) from HL-60 Promyelocytic Cell line 
+
+To test the effects of the titanium-boron metal alloys on NLCs, the HL-60 cell line serves as a model for neutrophil response. The HL-60 cell line is a promyelocytic cell that can be differentiated into various cell types, such as neutrophil-like cells (NLCs), osteoclast-like cells, macrophage-like cells, etc. HL-60 cells are a good model used to study neutrophil behaviors and the differentiation process57. To achieve differentiation into NLCs, HL-60 cells were treated with 1.25% DMSO and 1µM of ATRA to the final concentration as previously described in the HL-60 differentiation into Neutrophil-Like Cells (NLCs) section. After 72 hours, cells began to exhibit morphological changes such as smaller size and irregular shape. Undifferentiated HL-60 cells are suspension cells and exhibit a rounder morphology (Figure ).
+
+To confirm the differentiation of HL-60 cells into NLCs, flow cytometry analysis of CD11b was performed. CD11b was chosen due to it being a common neutrophil cell surface marker57. (Figure 21) shows the expression of CD11b. All experiments show CD11b expression is increased on HL-60 cells by more than 50% after a 72-hour treatment with 1.25% DMSO and 1µM of ATRA. In all trials, the HL-60 treated cells were stained with an IgG1 antibody to act as an isotype control shown in blue. The isotype is used to display any background binding that occurs when there is no specific target.  Undifferentiated HL-60 cells were stained with CD11b antibody to act as a negative control, shown in orange. HL-60 cells treated with ATRA and DMSO were stained with CD11b antibody and shown in red on the graphs (Figure 21).
+
 
 <p align="center">
   <img src="images/flowbeads.jpg" width="600" alt="Flow Cytometry Results">
