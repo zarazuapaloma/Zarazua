@@ -11,3 +11,20 @@ main.content {
   margin: auto;
   text-align: left;
 }
+
+/* Table of Contents sidebar */
+#toc {
+  color: #ffffff !important;          /* make the text white */
+  background-color: #de378d !important; /* match your body background */
+}
+
+/* TOC links */
+#toc a {
+  color: #ffffff !important;          /* make the links white */
+  text-decoration: none;              /* optional: remove underline */
+}
+
+/* TOC links on hover */
+#toc a:hover {
+  color: #ffe066 !important;          /* light color when hovering */
+}
