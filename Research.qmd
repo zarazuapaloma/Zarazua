@@ -168,6 +168,11 @@ Succeeding neutrophil-like cell differentiation, NLCs were counted and seeded in
 
 ### G.	Solid Metal Samples for cytokine secretion assay
 
+One-half-inch diameter metal rods of Titanium (Ti-6Al-4V) solid metal alloy disks containing different percentages of boron (0.1 and 1.09) were supplied by Dr. Vilupanur Ravi (Department of Chemical and Materials Engineering, California State Polytechnic University, Pomona, CA). Stainless steel (SS316L) was purchased from McMaster-Carr (Santa Fe Springs, CA). All metal rods were cut into 3mm thick, half-inch diameter disks via wire electrical discharge machining (EDM) by Southwest EDM (Glendora, CA). All metal surfaces were prepped for in vitro analysis by Silicone Carbide (SiC) grit paper to a grit size of 800-1200. Metal samples were then cleansed with soap, sonicated three times in distilled water and alcohol. Metals were autoclaved at 121 °C and 15psi for 15 minutes as previously performed for sterilizing the metal particles67. 
+
+Once metal disks have been completely sterilized, they were placed into individual wells in a 12-well plate (Figure 19). Differentiated NLCs were seeded on top of each of the metal disks at a cell concentration of 1x106 cells per mL. Each condition was tested in duplicates and incubated for 12 and 48 hours at 37°C with 5% CO2. Following incubations, the contents of each well were transferred into a microcentrifuge tube and centrifuged at 1000RPM for 5 minutes. Following centrifugation, the supernatant of each condition was collected and transferred into a cryogenic vial and placed in a -80 °C freezer for later use. The cell pellet was placed on ice for cell surface staining for same-day analysis of RANKL. 
+
+
 <p align="center">
   <img src="images/flowbeads.jpg" width="600" alt="Flow Cytometry Results">
 </p>
