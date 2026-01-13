@@ -8,23 +8,32 @@ body {
 
 main.content {
   max-width: 800px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: 270px;  /* space for the TOC on the right */
   text-align: left;
 }
 
 /* Table of Contents sidebar */
 #toc {
-  color: #ffffff !important;          /* make the text white */
-  background-color: #de378d !important; /* match your body background */
+  position: fixed;       /* keeps TOC in place while scrolling */
+  top: 80px;             /* adjust if your navbar height is different */
+  right: 0;              /* put TOC on the right */
+  width: 250px;          /* width of sidebar */
+  max-height: 90vh;      /* allow scrolling inside TOC */
+  overflow-y: auto;
+  background-color: #de378d !important;
+  color: #ffffff !important;
+  padding: 20px;
+  z-index: 999;
 }
 
 /* TOC links */
 #toc a {
-  color: #ffffff !important;          /* make the links white */
-  text-decoration: none;              /* optional: remove underline */
+  color: #ffffff !important;
+  text-decoration: none;
 }
 
 /* TOC links on hover */
 #toc a:hover {
-  color: #ffe066 !important;          /* light color when hovering */
+  color: #ffe066 !important;
 }
