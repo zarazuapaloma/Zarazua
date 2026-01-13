@@ -208,6 +208,21 @@ To test the effects of the titanium-boron metal alloys on NLCs, the HL-60 cell l
 
 To confirm the differentiation of HL-60 cells into NLCs, flow cytometry analysis of CD11b was performed. CD11b was chosen due to it being a common neutrophil cell surface marker57. (Figure 21) shows the expression of CD11b. All experiments show CD11b expression is increased on HL-60 cells by more than 50% after a 72-hour treatment with 1.25% DMSO and 1µM of ATRA. In all trials, the HL-60 treated cells were stained with an IgG1 antibody to act as an isotype control shown in blue. The isotype is used to display any background binding that occurs when there is no specific target.  Undifferentiated HL-60 cells were stained with CD11b antibody to act as a negative control, shown in orange. HL-60 cells treated with ATRA and DMSO were stained with CD11b antibody and shown in red on the graphs (Figure 21).
 
+### B.	Confirmation of the Phagocytic capability of NLCs from HL-60 cells Using Microscopy
+
+To determine the capability of phagocytosis on NLCs, a phagocytosis assay was performed using 1µm fluorescent polychromatic beads. This assay was used to confirm whether differentiated HL-60 cells were capable of phagocytosing fluorescent beads, mimicking an in vivo periprosthetic environment. As seen in (Figure 22) ,it is difficult to determine whether the cells are phagocytosing the fluorescent beads. Ideally, successful phagocytosis would be indicated by the clear localization of bright fluorescent beads within the differentiated NLC. However, under the microscope, the beads were difficult to distinguish from extracellular debris, making it challenging to confirm internalization. Therefore, microscopy results were inconclusive, and an alternative approach was employed to verify phagocytic activity. 
+
+### C.	Confirmation of the Phagocytic Capability of NLCs from HL-60 cells Using Flow Cytometry
+
+Since visualization by microscopy was inconclusive and did not allow a reliable distinction between internalized and extracellular beads, flow cytometry was used as an alternative approach to confirm the phagocytic activity of neutrophil-like cells (NLCs). Flow cytometry enables single-cell analysis and separates true bead uptake from surface-bound or ambient fluorescence, providing a more definitive assessment of phagocytosis. 
+
+Differentiated NLCs were incubated with fluorescent 1µm beads for 24 hours and analyzed using a multistep gating strategy (Figures 23-26). First, the main viable cell population was identified using forward and side scatter (FSC-A vs SSC-A). Singlet selection (FSC-A vs FSC-H) to remove doublets and aggregates. Within the singlet population, CD11 b-positive cells were gated to isolate differentiated NLCs. Bead uptake was then evaluated by comparing FITC (CD11b) to PE (fluorescent beads). 
+
+Isotype controls established baseline fluorescence and quadrant boundaries (Figure 23). CD11b positive controls (Figure 24) established a baseline for positive NLC differentiation.  In bead-treated samples, a clear CD11b Positive/ PE population emerged in the upper-right quadrant, representing NLCs that had internalized fluorescent beads. For the 1:10 dilution bead dilution, 88.5% of DC11b positive events were bead positive (Figure 25), indicating robust phagocytic activity. The 1:100 bead dilution also demonstrated a measurable bead-positive NLC population, confirming that uptake occurred even under lower particle exposure (Figure 26).
+
+Together, these results verify that HL-60-derived NLCs retain functional phagocytic capability. Flow cytometry provided a definite assessment of bead internalization and established that the differentiated NLC population is competent to respond to particulate material- an essential prerequisite for subsequent cytokine secretion and RANKL expression analyses.	 
+
+### D.	Cytokine Secretion Assay 
 
 <p align="center">
   <img src="images/flowbeads.jpg" width="600" alt="Flow Cytometry Results">
