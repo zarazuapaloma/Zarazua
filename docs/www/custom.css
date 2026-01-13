@@ -14,12 +14,13 @@ main.content {
 }
 
 /* Table of Contents sidebar */
+/* Right sidebar TOC */
 #toc {
-  position: fixed;       /* keeps TOC in place while scrolling */
-  top: 80px;             /* adjust if your navbar height is different */
-  right: 0;              /* put TOC on the right */
-  width: 250px;          /* width of sidebar */
-  max-height: 90vh;      /* allow scrolling inside TOC */
+  position: fixed;
+  top: 80px;           /* adjust if your navbar is taller */
+  right: 0;            /* right side of page */
+  width: 250px;
+  max-height: 90vh;
   overflow-y: auto;
   background-color: #de378d !important;
   color: #ffffff !important;
@@ -27,13 +28,19 @@ main.content {
   z-index: 999;
 }
 
-/* TOC links */
 #toc a {
   color: #ffffff !important;
   text-decoration: none;
 }
 
-/* TOC links on hover */
 #toc a:hover {
   color: #ffe066 !important;
+}
+
+/* Shift main content left to avoid overlapping TOC */
+main.content {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: 270px;  /* slightly more than sidebar width */
+  text-align: left;
 }

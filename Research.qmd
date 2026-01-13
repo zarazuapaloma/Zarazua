@@ -1,14 +1,13 @@
 ---
 title: "Research"
-toc: true             # enable table of contents
-toc-depth: 3          # include headings up to H3
-toc-location: left    # sidebar on the left (or "right" if you prefer)
+toc: true
+toc-depth: 3
+toc-location: right       # <-- right sidebar
 format:
   html:
     theme: cosmo
     css: www/custom.css
 ---
-
 
 
 ## Masters Thesis Research
