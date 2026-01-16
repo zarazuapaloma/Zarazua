@@ -1,13 +1,55 @@
+/* =========================
+   GLOBAL PAGE STYLING
+   ========================= */
+
 body {
   background-color: #de378d !important;
 }
 
+/* Main text color */
 .content {
   color: #ffffff !important;
 }
 
+/* Keep content centered and readable */
 main.content {
   max-width: 800px;
   margin: auto;
   text-align: left;
+}
+
+/* =========================
+   TABLE OF CONTENTS (TOC)
+   Quarto-managed layout
+   ========================= */
+
+/* TOC container */
+nav#TOC {
+  background-color: #de378d !important;
+  border-left: none;
+  padding-left: 0.5rem;
+}
+
+/* TOC text */
+/* Make all TOC text white */
+nav#TOC, 
+nav#TOC * {
+  color: #ffffff !important;
+}
+
+
+/* Remove underline from links */
+nav#TOC a {
+  text-decoration: none !important;
+}
+
+/* Hover effect */
+nav#TOC a:hover {
+  color: #ffe066 !important;
+}
+
+/* Active section highlight */
+nav#TOC .active > a {
+  color: #ffe066 !important;
+  font-weight: 600;
 }
