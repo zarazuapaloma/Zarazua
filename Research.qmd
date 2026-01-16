@@ -285,7 +285,7 @@ This quantitative evidence demonstrated that differentiated NLCs were actively i
 
 ** Cytokine Secretion**
 
-
+Cytokine profiling revealed distinct activation patterns that depended on alloy composition. Across all the particle treatments tested, IL-8 emerged as the most prominently secreted cytokine, consistent with the strong chemotactic programming characteristic of differentiated HL-60 cells. Boron-modified titanium alloy particles–particularly the 1% boron formulation– further amplified IL-8 and IL-6 secretion, indicating enhanced inflammatory stimulation relative to unmodified Ti-6Al-4V. Particulate debris further increased IL-8 and IL-6 levels compared to control conditions. TNF-alpha was also induced by metal particles, although at more modest levels compared with IL-8, while IL-1ß and GM-CSF-mediated pathways in response to particulate debris. 
 
 
 
