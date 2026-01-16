@@ -6,10 +6,18 @@ body {
   color: #ffffff !important;
 }
 
-main.content {
-  max-width: 800px;
+/* ONLY shift content when a TOC exists */
+.has-toc main.content {
+  margin-right: 270px;
   margin-left: auto;
-  margin-right: 270px;  /* space for the TOC on the right */
+  max-width: 800px;
+  text-align: left;
+}
+
+/* Default content layout (no TOC pages like Home) */
+main.content {
+  margin: auto;
+  max-width: 800px;
   text-align: left;
 }
 
