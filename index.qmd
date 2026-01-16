@@ -4,7 +4,7 @@
 
 # Welcome to my website!
 
-My name is Paloma Zarazua, and I hold a Master’s degree in Biology from California State Polytechnic University, Pomona. I am passionate about research and am currently pursuing opportunities in PhD programs or research roles.
+My name is **Paloma Zarazua**, and I hold a Master’s degree in Biology from California State Polytechnic University, Pomona. I am passionate about research and am currently pursuing opportunities in PhD programs or research roles.
 
 My research explores how hematopoietic progenitor cells switch between protecting tissue and contributing to its unintended breakdown. I am particularly interested in how immune-derived cells sense their environment and coordinate responses that determine whether inflammation resolves or progresses to disease. Currently, I study how neutrophil-like cells respond to experimental metal alloys used in prosthetic implants, analyzing cytokine secretion and surface RANKL expression to identify the most biocompatible materials.
 
