@@ -267,7 +267,7 @@ The need for improved prosthetic implant materials continues to grow in the Unit
 
 ### A. Early Findings and Assay Validation:
 
-"Establishment of Neutrophil-Like Cells( NLCs) from HL-60 Cells"
+**Establishment of Neutrophil-Like Cells( NLCs) from HL-60 Cells**
 
 Differentiation of HL-60 promyelocytic cells into functional neutrophil-like cells (NLCs) was a critical first step in this study, as the validity of all subsequent assays depended on establishing a cell population that reliably models early neutrophil behavior. HL-60 cells are one of the most used human myeloid lines for generating NLCs because they grow easily, differentiate consistently, and develop strong neutrophil marker expression while maintaining good viability57.The differentiation protocol using All-trans retinoic acid (ATRA) and DMSO produced cells that exhibited characteristic neutrophil features, including reduced cell size, morphological changes, and increased expression of CD11b, a well-established marker of neutrophil differentiation that appears within 3 days57. Functional assays confirmed these NLCs displayed chemotactic, phagocytic, and oxidative burst responses, though with somewhat lower directional accuracy compared to primary neutrophils57. While HL-60 and its subline PLB-985 are genetically identical, they exhibit reproducible differences in gene expression that may make each better suited for a specific application.  Our flow cytometry analysis confirmed a substantial shift in CD11b-positive cells compared with the undifferentiated HL-60 cells and isotype controls, indicating a successful transition into a neutrophil-like phenotype. 
 
