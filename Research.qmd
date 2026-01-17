@@ -369,6 +369,8 @@ Third, metal exposures were performed using a single concentration for both part
 
 Finally, this study examined neutrophils in isolation rather than in combination with other periprosthetic cell types. In vivo, neutrophils interact with macrophages, fibroblasts, mesenchymal stromal cells, osteoblasts, and osteoclast precursors– cell types that respond to neutrophil-derived cytokines and, in turn, reinforce or suppress inflammation. Co-culture models or sequential stimulation systems would therefore provide a more physiologically relevant representation of cellular crosstalk in periprosthetic tissue. Without these models, the current findings capture only the neutrophil-specific contribution and cannot fully predict how downstream cell populations respond to different alloy compositions.
 
+### G. Final Conclusions 
+
 
 <p align="center">
   <img src="images/flowbeads.jpg" width="600" alt="Flow Cytometry Results">
