@@ -388,19 +388,33 @@ These observations highlight the value of neutrophil responses as an early scree
 5	Gawkrodger DJ. Nickel sensitivity and the implantation of orthopaedic prostheses. Contact Dermatitis 1993;28:257–9. https://doi.org/10.1111/j.1600-0536.1993.tb03427.x.
 
 6	Dutta SK. Different Types and New Applications of Stainless Steel n.d.;62:.
+
 7	Song R, Xiang J, Hou D. Characteristics of Mechanical Properties and Microstructure for 316L Austenitic Stainless Steel. J Iron Steel Res Int 2011;18:53–9. https://doi.org/10.1016/S1006-706X(11)60117-9.
+
 8	Gervais B, Vadean A, Raison M, Brochu M. Failure analysis of a 316L stainless steel femoral orthopedic implant. Case Studies in Engineering Failure Analysis 2016;5–6:30–8. https://doi.org/10.1016/j.csefa.2015.12.001.
+
 9	Hryniewicz T. Electropolishing Processes for Better Implants’ Performance. BJSTR 2018;11:. https://doi.org/10.26717/BJSTR.2018.11.002046.
+
 10Merola M, Affatato S. Materials for Hip Prostheses: A Review of Wear and Loading Considerations. Materials (Basel) 2019;12:495. https://doi.org/10.3390/ma12030495.
+
 11Balk EM, Gazula A, Markozannes G, Kimmel HJ, Saldanha IJ, Resnik LJ, et al. Lower Limb Prostheses: Measurement Instruments, Comparison of Component Effects by Subgroups, and Long-Term Outcomes. Agency for Healthcare Research and Quality (AHRQ); 2018.
+
 12Riccio-Ackerman F, Chicos L, Herrera-Arcos G. Repairing the prosthetic science-policy rift: Challenges to improved access to and translation of prosthetic technologies. MIT SPR 2023;4:. https://doi.org/10.38105/spr.4ffmn3soar.
+
 13Bennett J. Limb loss: The unspoken psychological aspect. Journal of Vascular Nursing 2016;34:128–30. https://doi.org/10.1016/j.jvn.2016.06.001.
+
 14Marks LJ, Michael JW. Artificial limbs. BMJ 2001;323:732–5.
+
 15Hodges NA, Sussman EM, Stegemann JP. Aseptic and septic prosthetic joint loosening: Impact of biomaterial wear on immune cell function, inflammation, and infection. Biomaterials 2021;278:121127. https://doi.org/10.1016/j.biomaterials.2021.121127.
+
 16Schwartz AM, Farley KX, Guild GN, Bradbury TL. Projections and Epidemiology of Revision Hip and Knee Arthroplasty in the United States to 2030. J Arthroplasty 2020;35:S79–85. https://doi.org/10.1016/j.arth.2020.02.030.
+
 17Shichman I, Askew N, Habibi A, Nherera L, Macaulay W, Seyler T, et al. Projections and Epidemiology of Revision Hip and Knee Arthroplasty in the United States to 2040-2060. Arthroplast Today 2023;21:101152. https://doi.org/10.1016/j.artd.2023.101152.
+
 18Gardezi M, Ottesen TD, Tyagi V, Sherman JJZ, Grauer JN, Rubin LE. Arthroplasty implants and materials: Cost awareness and value perception. PLoS ONE 2021;16:e0255061. https://doi.org/10.1371/journal.pone.0255061.
+
 19Pollock JR, Doan MK, Moore ML, Haglin JM, Arthur JR, Deckey DG, et al. Large Variation in Listed Chargemaster Price for Total Joint Arthroplasty Among Top Orthopaedic Hospitals in the United States. J Am Acad Orthop Surg Glob Res Rev 2023;7:e23.00052. https://doi.org/10.5435/JAAOSGlobal-D-23-00052.
+
 20Drummond J, Tran P, Fary C. Metal-on-Metal Hip Arthroplasty: A Review of Adverse Reactions and Patient Management. JFB 2015;6:486–99. https://doi.org/10.3390/jfb6030486.
 21Goodacre CJ, Bernal G, Rungcharassaeng K, Kan JYK. Clinical complications with implants and implant prostheses. The Journal of Prosthetic Dentistry 2003;90:121–32. https://doi.org/10.1016/S0022-3913(03)00212-9.
 22Piuzzi N, Yost L, Putnam W, Springer B, De Beaubien B, Urish K, et al. Outcomes following planned two-stage exchange arthroplasty for periprosthetic joint infections in the United States: a systematic review of the literature. Arch Orthop Trauma Surg 2025;145:352. https://doi.org/10.1007/s00402-025-05955-0.
