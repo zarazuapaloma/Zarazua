@@ -9,7 +9,7 @@ page-layout: full
 
 <iframe 
   src="CV.pdf" 
-  width="100%" 
+  width="500%" 
   height="900px" 
   style="border: none;">
 </iframe>
