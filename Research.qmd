@@ -384,7 +384,9 @@ These observations highlight the value of neutrophil responses as an early scree
 3	Merola M, Affatato S. Materials for Hip Prostheses: A Review of Wear and Loading Considerations. Materials (Basel) 2019;12:495. https://doi.org/10.3390/ma12030495.
 
 4	Borah V, Bora U, Baishya UJ, Pegu B, Sahai N. Anatomization of wear behaviour of materials for total hip arthroplasty bearing surfaces: A review. Materials Today: Proceedings 2021;44:176–86. https://doi.org/10.1016/j.matpr.2020.08.553.
+
 5	Gawkrodger DJ. Nickel sensitivity and the implantation of orthopaedic prostheses. Contact Dermatitis 1993;28:257–9. https://doi.org/10.1111/j.1600-0536.1993.tb03427.x.
+
 6	Dutta SK. Different Types and New Applications of Stainless Steel n.d.;62:.
 7	Song R, Xiang J, Hou D. Characteristics of Mechanical Properties and Microstructure for 316L Austenitic Stainless Steel. J Iron Steel Res Int 2011;18:53–9. https://doi.org/10.1016/S1006-706X(11)60117-9.
 8	Gervais B, Vadean A, Raison M, Brochu M. Failure analysis of a 316L stainless steel femoral orthopedic implant. Case Studies in Engineering Failure Analysis 2016;5–6:30–8. https://doi.org/10.1016/j.csefa.2015.12.001.
