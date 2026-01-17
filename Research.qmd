@@ -416,40 +416,76 @@ These observations highlight the value of neutrophil responses as an early scree
 19Pollock JR, Doan MK, Moore ML, Haglin JM, Arthur JR, Deckey DG, et al. Large Variation in Listed Chargemaster Price for Total Joint Arthroplasty Among Top Orthopaedic Hospitals in the United States. J Am Acad Orthop Surg Glob Res Rev 2023;7:e23.00052. https://doi.org/10.5435/JAAOSGlobal-D-23-00052.
 
 20Drummond J, Tran P, Fary C. Metal-on-Metal Hip Arthroplasty: A Review of Adverse Reactions and Patient Management. JFB 2015;6:486–99. https://doi.org/10.3390/jfb6030486.
+
 21Goodacre CJ, Bernal G, Rungcharassaeng K, Kan JYK. Clinical complications with implants and implant prostheses. The Journal of Prosthetic Dentistry 2003;90:121–32. https://doi.org/10.1016/S0022-3913(03)00212-9.
+
 22Piuzzi N, Yost L, Putnam W, Springer B, De Beaubien B, Urish K, et al. Outcomes following planned two-stage exchange arthroplasty for periprosthetic joint infections in the United States: a systematic review of the literature. Arch Orthop Trauma Surg 2025;145:352. https://doi.org/10.1007/s00402-025-05955-0.
+
 23Aggarwal VK, Bakhshi H, Ecker NU, Parvizi J, Gehrke T, Kendoff D. Organism Profile in Periprosthetic Joint Infection: Pathogens Differ at Two Arthroplasty Infection Referral Centers in Europe and in the United States. J Knee Surg 2014;27:399–406. https://doi.org/10.1055/s-0033-1364102.
+
 24Moore AJ, Wylde V, Whitehouse MR, Beswick AD, Walsh NE, Jameson C, et al. Development of evidence-based guidelines for the treatment and management of periprosthetic hip infection: the INFORM guidelines. Bone Jt Open 2023;4:226–33. https://doi.org/10.1302/2633-1462.44.BJO-2022-0155.R1.
+
 25Ravi B, Escott B, Shah PS, Jenkinson R, Chahal J, Bogoch E, et al. A systematic review and meta‐analysis comparing complications following total joint arthroplasty for rheumatoid arthritis versus for osteoarthritis. Arthritis & Rheumatism 2012;64:3839–49. https://doi.org/10.1002/art.37690.
+
 26Calligaro KD, Dougherty MJ, Ryan S, Booth RE. Acute arterial complications associated with total hip and knee arthroplasty. Journal of Vascular Surgery 2003;38:1170–5. https://doi.org/10.1016/S0741-5214(03)00918-2.
+
 27Ollivere B, Wimhurst JA, M. Clark I, Donell ST. Current concepts in osteolysis. The Journal of Bone and Joint Surgery British Volume 2012;94-B:10–5. https://doi.org/10.1302/0301-620X.94B1.28047.
+
 28Boyce BF, Yao Z, Xing L. Osteoclasts have Multiple Roles in Bone in Addition to Bone Resorption. Crit Rev Eukaryot Gene Expr 2009;19:171–80.
+
 29Boyce BF, Xing L. Functions of RANKL/RANK/OPG in bone modeling and remodeling. Arch Biochem Biophys 2008;473:139–46. https://doi.org/10.1016/j.abb.2008.03.018.
+
 30Hienz SA, Paliwal S, Ivanovski S. Mechanisms of Bone Resorption in Periodontitis. Journal of Immunology Research 2015;2015:615486. https://doi.org/10.1155/2015/615486.
+
 31Steeve KT, Marc P, Sandrine T, Dominique H, Yannick F. IL-6, RANKL, TNF-alpha/IL-1: interrelations in bone resorption pathophysiology. Cytokine & Growth Factor Reviews 2004;15:49–60. https://doi.org/10.1016/j.cytogfr.2003.10.005.
+
 32the role of rank rank l opg pathway in bone loss new insights n.d.
+
 33Boyce BF, Xing L. Biology of RANK, RANKL, and osteoprotegerin. Arthritis Res Ther 2007;9:S1. https://doi.org/10.1186/ar2165.
+
 34Gordon S, Martinez-Pomares L. Physiological roles of macrophages. Pflugers Arch - Eur J Physiol 2017;469:365–74. https://doi.org/10.1007/s00424-017-1945-7.
+
 35Elhelu MA. BIOLOGY OF MACROPHAGES n.d.
+
 36Pap T, Claus A, Ohtsu S, Hummel KM, Schwartz P, Drynda S, et al. Osteoclast-independent bone resorption by fibroblast-like cells. Arthritis Res Ther 2003;5:R163. https://doi.org/10.1186/ar752.
+
 37Talbott HE, Mascharak S, Griffin M, Wan DC, Longaker MT. Wound healing, fibroblast heterogeneity, and fibrosis. Cell Stem Cell 2022;29:1161–80. https://doi.org/10.1016/j.stem.2022.07.006.
+
 38Plikus MV, Wang X, Sinha S, Forte E, Thompson SM, Herzog EL, et al. Fibroblasts: Origins, definitions, and functions in health and disease. Cell 2021;184:3852–72. https://doi.org/10.1016/j.cell.2021.06.024.
+
 39Tunyogi‐Csapo M, Kis‐Toth K, Radacs M, Farkas B, Jacobs JJ, Finnegan A, et al. Cytokine‐controlled RANKL and osteoprotegerin expression by human and mouse synovial fibroblasts: Fibroblast‐mediated pathologic bone resorption. Arthritis & Rheumatism 2008;58:2397–408. https://doi.org/10.1002/art.23653.
+
 40Charoenlarp P, Rajendran AK, Iseki S. Role of fibroblast growth factors in bone regeneration. Inflamm Regener 2017;37:10. https://doi.org/10.1186/s41232-017-0043-8.
+
 41Fiorito S, Magrini L, Goalard C. Pro-inflammatory and anti-inflammatory circulating cytokines and periprosthetic osteolysis. The Journal of Bone and Joint Surgery British Volume 2003;85-B:1202–6. https://doi.org/10.1302/0301-620X.85B8.12799.
+
 42Schett G. Effects of inflammatory and anti‐inflammatory cytokines on the bone. Eur J Clin Investigation 2011;41:1361–6. https://doi.org/10.1111/j.1365-2362.2011.02545.x.
+
 43Redwood C. Interleukin-1 (IL-1) Pathway n.d.
+
 44Sims JE, Smith DE. The IL-1 family: regulators of immunity. Nat Rev Immunol 2010;10:89–102. https://doi.org/10.1038/nri2691.
+
 45Boraschi D. What Is IL-1 for? The Functions of Interleukin-1 Across Evolution. Front Immunol 2022;13:872155. https://doi.org/10.3389/fimmu.2022.872155.
+
 46Simpson RJ, Hammacher A, Smith DK, Matthews JM, Ward LD. Interleukin‐6: Structure‐function relationships. Protein Science 1997;6:929–55. https://doi.org/10.1002/pro.5560060501.
+
 47Tanaka T, Narazaki M, Kishimoto T. IL-6 in Inflammation, Immunity, and Disease. Cold Spring Harbor Perspectives in Biology 2014;6:a016295–a016295. https://doi.org/10.1101/cshperspect.a016295.
+
 48Feng W, Liu H, Luo T, Liu D, Du J, Sun J, et al. Combination of IL-6 and sIL-6R differentially regulate varying levels of RANKL-induced osteoclastogenesis through NF-κB, ERK and JNK signaling pathways. Sci Rep 2017;7:41411. https://doi.org/10.1038/srep41411.
+
 49Idriss HT, Naismith JH. TNF? and the TNF receptor superfamily: Structure-function relationship(s). Microsc Res Tech 2000;50:184–95. https://doi.org/10.1002/1097-0029(20000801)50:3%253C184::AID-JEMT2%253E3.0.CO;2-H.
+
 50Silva LB, Dos Santos Neto AP, Maia SMAS, Dos Santos Guimarães C, Quidute IL, Carvalho ADAT, et al. The Role of TNF-α as a Proinflammatory Cytokine in Pathological Processes. TODENTJ 2019;13:332–8. https://doi.org/10.2174/1874210601913010332.
-51Russo RC, Garcia CC, Teixeira MM, Amaral FA. The CXCL8/IL-8 chemokine family and its receptors in inflammatory diseases. Expert Review of Clinical Immunology 2014;10:593–619. https://doi.org/10.1586/1744666X.2014.894886.
+
+51Russo RC, Garcia CC, Teixeira MM, Amaral FA. The CXCL8/IL-8 chemokine family and its receptors in inflammatory diseases.
+Expert Review of Clinical Immunology 2014;10:593–619. https://doi.org/10.1586/1744666X.2014.894886.
+
 52Matsushima K, Yang D, Oppenheim JJ. Interleukin-8: An evolving chemokine. Cytokine 2022;153:155828. https://doi.org/10.1016/j.cyto.2022.155828.
+
 53Harada A, Sekido N, Akahoshi T, Wada T, Mukaida N, Matsushima K. Essential involvement of interleukin-8 (IL-8) in acute inflammation. Journal of Leukocyte Biology 1994;56:559–64. https://doi.org/10.1002/jlb.56.5.559.
+
 54Bendre MS, Montague DC, Peery T, Akel NS, Gaddy D, Suva LJ. Interleukin-8 stimulation of osteoclastogenesis and bone resorption is a mechanism for the increased osteolysis of metastatic bone disease. Bone 2003;33:28–37. https://doi.org/10.1016/S8756-3282(03)00086-3.
+
 55Pathak JL, Bakker AD, Verschueren P, Lems WF, Luyten FP, Klein-Nulend J, et al. CXCL8 and CCL20 Enhance Osteoclastogenesis via Modulation of Cytokine Production by Human Primary Osteoblasts. PLoS ONE 2015;10:e0131041. https://doi.org/10.1371/journal.pone.0131041.
 56de Oliveira S, Rosowski EE, Huttenlocher A. Neutrophil migration in infection and wound repair: going forward in reverse. Nat Rev Immunol 2016;16:378–91. https://doi.org/10.1038/nri.2016.49.
 57Rincón E, Rocha-Gregg BL, Collins SR. A map of gene expression in neutrophil-like cell lines. BMC Genomics 2018;19:573. https://doi.org/10.1186/s12864-018-4957-6.
