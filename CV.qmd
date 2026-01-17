@@ -15,8 +15,12 @@ page-layout: full
   </iframe>
 </div>
 
-<div style="text-align: center; margin-top: 1rem;">
-  [Download CV (PDF)](CV.pdf)
-</div>
-
+<!-- Download CV Button -->
+<p align="center">
+  <a href="CV.pdf" download
+     style="display: inline-block; margin-top: 20px; background-color:#de378d; color:#ffffff;
+            padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Download CV
+  </a>
+</p>
 ---
