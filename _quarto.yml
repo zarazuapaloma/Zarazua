@@ -13,6 +13,8 @@ website:
         text: Background
       - href: Research.qmd
         text: Research
+      - href: CV.qmd
+        text: Curriculum Vitae
 
 format:
   html:
