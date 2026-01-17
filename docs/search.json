@@ -82,5 +82,26 @@
     "title": "My Background",
     "section": "Work Experience",
     "text": "Work Experience\nStudent Assistant, College of Business and Public Management, University of La Verne\nSep 2022 – Dec 2022\nPatient Representative, COPE Health Solutions – University of Texas Rio Grande\nSep 2021 – Oct 2022\nHealth Scholar, COPE Health Scholars – Emanate Health\nMar 2021 – May 2022"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Paloma Zarazua",
+    "section": "",
+    "text": "title: “Curriculum Vitae” toc: false page-layout: full —"
+  },
+  {
+    "objectID": "CV.html#full-cv",
+    "href": "CV.html#full-cv",
+    "title": "Paloma Zarazua",
+    "section": "Full CV",
+    "text": "Full CV"
+  },
+  {
+    "objectID": "CV.html#download-cv-pdf",
+    "href": "CV.html#download-cv-pdf",
+    "title": "Paloma Zarazua",
+    "section": "Download CV (PDF)",
+    "text": "Download CV (PDF)"
   }
 ]
