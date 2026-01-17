@@ -15,12 +15,15 @@ page-layout: full
   </iframe>
 </div>
 
-<!-- Download CV Button -->
+<!-- Download CV Button styled like your LinkedIn button -->
 <p align="center">
   <a href="CV.pdf" download
-     style="display: inline-block; margin-top: 20px; background-color:#de378d; color:#ffffff;
-            padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+     style="display: inline-block; margin-top: 15px; 
+            background-color:#de378d; color:#ffffff;
+            padding: 10px 20px; text-decoration: none; 
+            border-radius: 5px; font-weight: bold;">
     Download CV
   </a>
 </p>
+
 ---
