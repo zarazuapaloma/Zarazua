@@ -39,6 +39,28 @@ Aug 2019-Dec 2022
 
 -Sample processing and supernatant collection for downstream analysis
 
+### Flow Cytometry & Microscopy
+-Flow cytometry data acquisition and interpretation
+
+-Gating strategies, controls, and quality control
+
+-FlowJo and LEGENDplex data analysis
+
+-Fluorescence and brightfield microscopy
+
+-Imaging and interpretation of cellular responses
+
+### Data Analysis & Research Tools 
+-Statistical analysis in R (tidyverse, dplyr)
+
+-Data visualization and figure preparation
+
+-Reproducible research workflows
+
+-Microsoft Office and Google Workspace
+
+-GitHub for project documentation and portfolio hosting
+
 ## Teaching, Mentoring, and Training Experience
 
 ### Teaching Associate  
