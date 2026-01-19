@@ -6,12 +6,18 @@ format: html
 ## Education
 ### Master of Science in Biolgical Sciences 
 _Emphasis in Cell and Molecular Biology_
+
 California State Polytechnic University, Pomona
+
 Aug 2023-Dec 2025
 
 ### Bachelor of Science, Major in Biology 
 California State Polytechnic University, Pomona
+
 Aug 2019-Dec 2022
+
+## Technical Laboratory Skills 
+###
 
 ## Teaching, Mentoring, and Training Experience
 
