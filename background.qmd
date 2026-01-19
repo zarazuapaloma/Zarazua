@@ -19,16 +19,24 @@ Aug 2019-Dec 2022
 ## Technical Laboratory Skills 
 ### Cell Culture & Experimental Techniques
 -Mammalian cell culture (HL-60 human promyelocytic cell line)
+
 -Differentiation of HL-60 cells into neutrophil-like cells (NLCs)
+
 -Cell counting, viability assessment, and culture optimization
+
 -Sterile technique and aseptic workflows
+
 -Preparation of media, buffers, and experimental reagents
 
 ### Immunology & Functional Assays
 -In vitro modeling of innate immune responses
+
 -Phagocytosis assays using fluorescent beads
+
 -Cell surface marker analysis (e.g., CD11b, RANKL)
+
 -Cytokine secretion analysis using multiplex bead-based assays
+
 -Sample processing and supernatant collection for downstream analysis
 
 ## Teaching, Mentoring, and Training Experience
