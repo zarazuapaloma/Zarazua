@@ -16,6 +16,21 @@ University of La Verne
 
 Aug 2019-Dec 2022
 
+## Poster Presentations
+### Cal Poly Pomona College of Science Research Symposium May 2025
+Poster: Neutrophil-Like Cells Response to Experimental Metal Alloys
+
+
+<p align="center">
+  <img src="images/zarazua_paloma_poster_May25.pdf" width="500" alt="Paloma Zarazua" />
+</p>
+
+<p align="center">
+  <img src="images/palomaphoto.jpeg" width="300" alt="Paloma Zarazua" />
+</p>
+
+
+zarazua_paloma_poster_May25.pdf
 ## Technical Laboratory Skills 
 ### Cell Culture & Experimental Techniques
 -Mammalian cell culture (HL-60 human promyelocytic cell line)
