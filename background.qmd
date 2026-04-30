@@ -22,7 +22,7 @@ Poster: Neutrophil-Like Cells Response to Experimental Metal Alloys
 
 
 <p align="center">
-  <img src="images/zarazua_paloma_poster_May25.pdf" width="500" alt="Paloma Zarazua" />
+  <img src="images/zarazua_paloma_poster_May2025.jpg" width="500" alt="Paloma Zarazua" />
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@ Poster: Neutrophil-Like Cells Response to Experimental Metal Alloys
 </p>
 
 
-zarazua_paloma_poster_May25.pdf
 ## Technical Laboratory Skills 
 ### Cell Culture & Experimental Techniques
 -Mammalian cell culture (HL-60 human promyelocytic cell line)
