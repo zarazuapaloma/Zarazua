@@ -17,7 +17,7 @@ I aspire to lead my own research lab focused on immunology and hematopoietic cel
 On this site, you’ll find updates on my research journey, lab experiences, and the scientific questions that continue to drive my work.
 
 <p align="center">
-  <img src="images/palomaphoto.jpeg" width="300" alt="Paloma Zarazua" />
+  <img src="images/paloma_pfp.JPG" width="500" alt="Paloma Zarazua" />
 </p>
 
 <p align="center">
