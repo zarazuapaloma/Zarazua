@@ -30,7 +30,7 @@ August 2019 – December 2022
 ![](images/zarazua_paloma_poster_May2025.jpg){width=100%}
 :::
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 ![](images/palomaphoto.jpeg){width=100%}
 :::
 
