@@ -8,7 +8,7 @@ page-layout: full
 
 ::: {style="display: flex; justify-content: center;"}
 <iframe 
-    src="Zarazua_Paloma_CV" 
+    src="Zarazua_Paloma_CV.pdf" 
     width="1200px" 
     height="1500px" 
     style="border: none;"> </iframe>
@@ -17,7 +17,7 @@ page-layout: full
 <!-- Download CV Button with visible box -->
 
 ::: {style="display: flex; justify-content: center; margin-top: 20px;"}
-<a href="Zarazua_Paloma_CV" download
+<a href="Zarazua_Paloma_CV.pdf" download
      style="
        display: inline-block;
        background-color: #fff; 
