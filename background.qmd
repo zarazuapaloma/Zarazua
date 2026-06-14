@@ -26,16 +26,22 @@ August 2019 – December 2022
 
 :::: {.columns}
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 ![](images/zarazua_paloma_poster_May2025.jpg){width=100%}
+
+*Figure 1. Research poster presented at the Cal Poly Pomona College of Science Research Symposium, May 2025.*
+:::
+
+::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
 ![](images/palomaphoto.jpeg){width=100%}
+
+*Presenting my research at the Cal Poly Pomona College of Science Research Symposium, May 2025.*
 :::
 
 ::::
-
 ## Technical Laboratory Skills
 
 ### Cell Culture & Experimental Techniques
