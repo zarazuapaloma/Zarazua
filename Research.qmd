@@ -17,7 +17,7 @@ format:
 
   <iframe 
     src="Paloma_Zarazua_Thesis2025.pdf" 
-    width="1200px" 
+    width="1100px" 
     height="1500px" 
     style="border: none;">
   </iframe>
