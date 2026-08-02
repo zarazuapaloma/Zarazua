@@ -7,11 +7,9 @@ page-layout: full
 ## Full CV
 
 ::: {style="display: flex; justify-content: center;"}
-<iframe 
-    src="Zarazua_Paloma_CV.pdf" 
-    width="1200px" 
-    height="1500px" 
-    style="border: none;"> </iframe>
+<iframe src="Zarazua_Paloma_CV.pdf" width="1200px" height="1500px" style="border: none;">
+
+</iframe>
 :::
 
 <!-- Download CV Button with visible box -->
