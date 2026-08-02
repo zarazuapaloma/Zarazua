@@ -9,7 +9,7 @@ format:
     css: www/custom.css
 ---
 
-## Masters Thesis Research: INVESTIGATING EFFECTS OF NEUTROPHIL-LIKE CELLS (NLCs) BY NEW DEVELOPING METALS
+## Master's Thesis Research: Investigating Effects of Neutrophil-Like Cells (NLCs) by New Developing Metals
 
 **Department of Biological Sciences | California State Polytechnic University, Pomona**
 
