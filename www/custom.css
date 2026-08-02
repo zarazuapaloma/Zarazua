@@ -1,15 +1,23 @@
+/* =========================
+   GLOBAL PAGE STYLING
+   ========================= */
+
 body {
   background-color: #de378d !important;
 }
 
-/* Text color */
+/* Main text color */
 .content {
   color: #ffffff !important;
 }
 
-/* Remove Quarto width constraint */
+/* =========================
+   PAGE LAYOUT
+   ========================= */
+
+/* Give the overall page more room for content + TOC */
 .page-columns {
-  max-width: 1200px !important;
+  max-width: 1600px !important;
   margin-left: auto;
   margin-right: auto;
 }
@@ -20,4 +28,14 @@ main.content {
   padding-left: 2rem;
   padding-right: 2rem;
   text-align: left;
+}
+
+/* =========================
+   TABLE OF CONTENTS
+   ========================= */
+
+/* Add space between the main content and TOC */
+#TOC {
+  margin-left: 40px;
+  padding-left: 20px;
 }
