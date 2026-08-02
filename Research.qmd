@@ -2,22 +2,24 @@
 title: "Research"
 toc: true
 toc-depth: 3
-toc-location: right       # <-- right sidebar
+toc-location: right
 format:
   html:
     theme: cosmo
     css: www/custom.css
 ---
 
+## Masters Thesis Research: INVESTIGATING EFFECTS OF NEUTROPHIL-LIKE CELLS (NLCs) BY NEW DEVELOPING METALS
 
-## Masters Thesis Research : INVESTIGATING EFFECTS OF NEUTROPHIL-LIKE CELLS (NLCs) BY NEW DEVELOPING METALS
+**Department of Biological Sciences | California State Polytechnic University, Pomona**
 
-**Department of Biological Sciences|California State Polytechnic University, Pomona**
+<div style="display: flex; justify-content: center; width: 100%;">
 
-<iframe 
-  src="Paloma_Zarazua_Thesis2025.pdf" 
-  width="1200px" 
-  height="1500px" 
-  style="border: none;">
-</iframe>
+  <iframe 
+    src="Paloma_Zarazua_Thesis2025.pdf" 
+    width="1200px" 
+    height="1500px" 
+    style="border: none;">
+  </iframe>
 
+</div>
